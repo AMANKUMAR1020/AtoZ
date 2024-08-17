@@ -1,0 +1,18 @@
+[
+    {
+        "id":"293u293dnkwuedu231",
+        "user":"walt2",
+        "phoneNumber":"1234567899",
+        "email":"walt2@gmsil.com",
+        "photo":"./photo/myphoto.jpg",
+        "date":"12/02/24    12:34:56"
+    },
+    {
+        "id":"293iwewiexba31",
+        "user":"walt1",
+        "phoneNumber":"1232103819",
+        "email":"walt1@gmsil.com",
+        "photo":"./photo/myphoto1.jpg",
+        "date":"13/02/24    12:34:56"
+    }
+]

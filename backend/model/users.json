@@ -1,0 +1,18 @@
+[
+    {
+        "id":"8ada12a8-cd04-4539-afd5-4e105efb0ed8",
+        "username":"user",
+        "password":"$2b$10$sQSLadQ/JqTigOZTpg9PP./TTwbrk/dZTyCeVllqXPRRAC7SnBZ9S",
+        "contacts":[],
+        "date":"2024/08/16\t21:12:14",
+        "refreshToken":""
+    },
+    {
+        "id":"d0a9b6f7-a131-4210-b2a9-e49b040b156b",
+        "username":"user2",
+        "password":"$2b$10$A5GZ2wtCCxTnxGCeyM5O0uNd2xUdJ63f7.a1STmtfAPbnE2.qhDLm",
+        "contacts":[],
+        "date":"2024/08/16\t21:20:44",
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIyIiwiaWF0IjoxNzIzOTAyOTcyLCJleHAiOjE3MjM5MDQ3NzJ9.l0VGdxulJuzYsuT6JpJIyw36frXnX3-f6h8JT6EB49I"
+    }
+]
